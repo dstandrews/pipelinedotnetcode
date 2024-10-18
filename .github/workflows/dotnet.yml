@@ -29,5 +29,5 @@ jobs:
     - name: Download a Build Artifact
       uses: actions/download-artifact@v4.1.8
       with: 
-        name: SomeName
+        name: /usr/share/dotnet
       
